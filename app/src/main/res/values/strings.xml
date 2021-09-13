@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">f1mobile</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="getraces">getraces</string>
+    <string name="sendata">sendata</string>
+    <string name="race1">Race1</string>
+    <string name="race2">Race2</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">"10"</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="secondbutton">Race2</string>
+    <string name="firstnumber">10</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
+</resources>
